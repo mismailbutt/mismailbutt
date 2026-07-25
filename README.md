@@ -1,9 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Ismail Butt</h1>
-![UET Lahore](https://img.shields.io/badge/UET-Lahore-blue?style=for-the-badge)
-![AI Intern](https://img.shields.io/badge/AI_Intern-Decode_Labs-success?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Beginner-yellow?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/UET-Lahore-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Intern-Decode%20Labs-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Beginner-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Intermediate-blue?style=for-the-badge" />
+</p>
 
 <h3 align="center">
 BS Artificial Intelligence Student @ UET Lahore <br>
