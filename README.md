@@ -1,5 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Ismail Butt</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=BS+Artificial+Intelligence+Student+%40+UET+Lahore;AI+Intern+%40+Decode+Labs;Aspiring+AI+%26+Machine+Learning+Engineer;Building+Real-World+AI+Projects" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">
 BS Artificial Intelligence Student @ UET Lahore <br>
