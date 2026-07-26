@@ -1,115 +1,88 @@
-
 <h1 align="center">Hi 👋, I'm Muhammad Ismail Butt</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/UET-Lahore-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Intern-Decode%20Labs-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Beginner-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Intern-Decode%20Elab-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C%2B%2B-Intermediate-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Beginner-yellow?style=for-the-badge" />
 </p>
 
 <h3 align="center">
-BS Artificial Intelligence Student @ UET Lahore <br>
-AI Intern @ Decode Labs
+BS Artificial Intelligence Student @ UET Lahore &nbsp;|&nbsp; AI Intern @ Decode Elab
 </h3>
 
----
-
-## 👨‍💻 About Me
-
-I am a BS Artificial Intelligence student at the University of Engineering and Technology (UET) Lahore with a strong interest in Machine Learning and Computer Vision.
-
-I enjoy learning by building projects that solve real-world problems. Currently, I am strengthening my programming fundamentals while working on AI projects during my internship at Decode Labs.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mismailbutt"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ismailbuttuet@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/mismailbutt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🎓 Education
+### 👨‍💻 About Me
 
-- BS Artificial Intelligence
-- University of Engineering and Technology (UET), Lahore
+I'm a BS Artificial Intelligence student at UET Lahore, currently interning at Decode Elab. I like turning ideas into working tools — mostly by pairing solid C++/OOP fundamentals with practical web interfaces. My projects so far range from a real point-of-sale system for a family business to AI-based applications during my internship.
+
+- 🔭 Currently working on AI-based applications and a rule-based chatbot at Decode Elab
+- 🌱 Deepening my grip on OOP (inheritance, operator overloading) and starting Computer Vision
+- 🛠️ Enjoy bridging C++ logic into clean web UIs
+- 📫 Reach me at **ismailbuttuet@gmail.com**
 
 ---
 
-## 💼 Experience
+### 🎓 Education
+**BS Artificial Intelligence** — University of Engineering and Technology (UET), Lahore
 
-### AI Intern
-**Decode Labs**
+---
 
+### 💼 Experience
+
+**AI Intern — Decode Elab**
 📅 July 2026 – Present
-
-Working on AI-based applications using Python while gaining hands-on experience through real-world projects.
-
----
-
-## 🌱 Currently Learning
-
-- Python Programming
-- Object-Oriented Programming (C++)
-- AI Application Development
-- Computer Vision Fundamentals
+Building AI-based applications and a rule-based chatbot, gaining hands-on experience with real-world projects.
 
 ---
 
-## 💻 Technical Skills
+### 🚀 Projects
 
-### Programming Languages
+**📌 Butt Trader POS**
+A point-of-sale web app built for a family drinks retail business — handles carton/single-bottle pricing, discounts, and invoice printing.
 
-- C++ (Intermediate)
-- Python (Beginner)
+**📌 Wed Spa Digital Portal**
+Contributed to a Saudi Arabia-based mobile spa service: built a React multi-role portal and wrote technical documentation for the customer-facing system (integrated with Make.com, Airtable, Glide, WhatsApp API, Mada/Apple Pay, and ZATCA invoicing).
 
-### Concepts
+**📌 NADRA-Style CNIC Verification Portal**
+A Pakistani CNIC verification web portal built with HTML/JS, styled after NADRA's system.
 
-- Object-Oriented Programming (OOP)
+**📌 Qibla Direction & Prayer Timing App**
+Built in C++ using core OOP concepts.
 
-### Tools
+**📌 Hand Gesture Volume Controller**
+A computer vision project that controls system volume using hand gestures in Python.
 
-- Visual Studio Code
-- GitHub
-
----
-
-## 🚀 Projects
-
-### 📌 Hand Gesture Volume Controller
-
-A Computer Vision project that controls system volume using hand gestures with Python.
-
-### 📌 Qibla Direction & Prayer Timing App
-
-Developed in C++ using Object-Oriented Programming concepts.
-
-### 📌 Rule-Based Chatbot
-
-Currently building during my AI Internship.
+**📌 Rule-Based Chatbot** *(in progress)*
+Being built as part of my AI internship at Decode Elab.
 
 ---
 
-## 🎯 Career Goals
+### 💻 Technical Skills
 
-- Become a skilled AI & Machine Learning Engineer
-- Build AI applications that solve real-world problems
-- Strengthen my Computer Vision skills
-- Continuously improve through hands-on projects
-- Work with leading technology companies
+**Languages:** C++ (Intermediate) · Python (Beginner)
+**Concepts:** Object-Oriented Programming, Computer Vision fundamentals
+**Tools:** VS Code · Git & GitHub · React · Make.com / Airtable / Glide (integrations)
 
 ---
 
-## 🏆 Certifications
-
-- HP Life – AI for Beginners
-
----
-
-## 📫 Connect With Me
-
-LinkedIn:
-https://www.linkedin.com/in/mismailbutt
-
-Email:
-ismailbuttuet@gmail.com
-
-GitHub:
-https://github.com/mismailbutt
+### 🎯 Career Goals
+- Become a strong AI & Machine Learning Engineer
+- Ship AI applications that solve real, everyday problems
+- Go deeper into Computer Vision
+- Keep learning by building — one project at a time
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+### 🏆 Certifications
+- HP LIFE – AI for Beginners
+
+---
+
+<p align="center">⭐ Thanks for stopping by!</p>
