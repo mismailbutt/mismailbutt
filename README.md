@@ -21,7 +21,7 @@ BS Artificial Intelligence Student @ UET Lahore &nbsp;|&nbsp; AI Intern @ Decode
 
 ### 👨‍💻 About Me
 
-I'm a BS Artificial Intelligence student at UET Lahore, currently interning at Decode Elab. I like turning ideas into working tools — mostly by pairing solid C++/OOP fundamentals with practical web interfaces. My projects so far range from real client work to AI-based applications during my internship.
+I'm a BS Artificial Intelligence 3rd semester student at UET Lahore, currently interning at Decode Elab. I like turning ideas into working tools — mostly by pairing solid C++/OOP fundamentals with practical web interfaces. My projects so far range from real client work to AI-based applications during my internship.
 
 - 🔭 Currently working on AI-based applications and a rule-based chatbot at Decode Elab
 - 🌱 Deepening my grip on OOP (inheritance, operator overloading) and starting Computer Vision
