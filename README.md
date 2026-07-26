@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ismail Butt</h1>
 
 <h3 align="center">
-BS Artificial Intelligence Student @ UET Lahore &nbsp;|&nbsp; AI Intern @ Decode Elab
+BS Artificial Intelligence Student @ UET Lahore &nbsp;|&nbsp; AI Intern @ Decode Labs
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/UET-Lahore-1a1a2e?style=for-the-badge&labelColor=333333" />
-  <img src="https://img.shields.io/badge/AI%20Intern-Decode%20Elab-0f4c81?style=for-the-badge&labelColor=333333" />
+  <img src="https://img.shields.io/badge/AI%20Intern-Decode%20Labs-0f4c81?style=for-the-badge&labelColor=333333" />
   <img src="https://img.shields.io/badge/C%2B%2B-Intermediate-2c3e50?style=for-the-badge&labelColor=333333" />
   <img src="https://img.shields.io/badge/Python-Beginner-34495e?style=for-the-badge&labelColor=333333" />
 </p>
