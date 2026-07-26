@@ -23,7 +23,7 @@ BS Artificial Intelligence Student @ UET Lahore &nbsp;|&nbsp; AI Intern @ Decode
 
 I'm a BS Artificial Intelligence 3rd semester student at UET Lahore, currently interning at Decode Elab. I like turning ideas into working tools — mostly by pairing solid C++/OOP fundamentals with practical web interfaces. My projects so far range from real client work to AI-based applications during my internship.
 
-- 🔭 Currently working on AI-based applications and a rule-based chatbot at Decode Elab
+- 🔭 Currently working on AI-based applications and a rule-based chatbot at Decode labs.
 - 🌱 Deepening my grip on OOP (inheritance, operator overloading) and starting Computer Vision
 - 🛠️ Enjoy bridging C++ logic into clean web UIs
 - 📫 Reach me at **ismailbuttuet@gmail.com**
@@ -55,7 +55,7 @@ Built in C++ using core OOP concepts.
 A computer vision project that controls system volume using hand gestures in Python.
 
 **📌 Rule-Based Chatbot** *(in progress)*
-Being built as part of my AI internship at Decode Elab.
+Being built as part of my AI internship at Decode labs.
 
 ---
 
@@ -63,7 +63,7 @@ Being built as part of my AI internship at Decode Elab.
 
 **Languages:** C++ (Intermediate) · Python (Beginner)
 **Concepts:** Object-Oriented Programming, Computer Vision fundamentals
-**Tools:** VS Code · Git & GitHub · React · Make.com / Airtable / Glide (integrations)
+**Tools:** VS Code · Git & GitHub 
 
 ---
 
