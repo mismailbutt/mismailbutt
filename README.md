@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ismail Butt</h1>
 
-<p align="center">
-  <a href="https://github.com/mismailbutt">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=BS+Artificial+Intelligence+Student+%40+UET+Lahore;AI+Intern+%40+Decode+Elab;Building+practical+tools+one+project+at+a+time" alt="Typing SVG" />
-  </a>
-</p>
+<h3 align="center">
+BS Artificial Intelligence Student @ UET Lahore &nbsp;|&nbsp; AI Intern @ Decode Elab
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/UET-Lahore-blue?style=for-the-badge" />
